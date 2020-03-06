@@ -1,2 +1,3 @@
 # html-practice
-Traversy Media 
+Traversy Media Course HTML Section learning and practice
+
